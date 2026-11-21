@@ -205,11 +205,6 @@
 			120715,
 			28500,
 			true
-		],
-		"amb_night": [
-			149465,
-			28500,
-			true
 		]
 	},
 	"src": [
@@ -367,9 +362,6 @@
 			"volume": 1
 		},
 		"amb_day": {
-			"volume": 1
-		},
-		"amb_night": {
 			"volume": 1
 		}
 	}
