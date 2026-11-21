@@ -1,0 +1,94 @@
+{
+ "frames": {
+  "characterHouse": {
+   "frame": {
+    "x": 496,
+    "y": 2,
+    "w": 428,
+    "h": 850
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 428,
+    "h": 850
+   },
+   "sourceSize": {
+    "w": 428,
+    "h": 850
+   }
+  },
+  "characterPlayer": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 490,
+    "h": 850
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 490,
+    "h": 850
+   },
+   "sourceSize": {
+    "w": 490,
+    "h": 850
+   }
+  },
+  "portraitHouse": {
+   "frame": {
+    "x": 2,
+    "y": 856,
+    "w": 289,
+    "h": 289
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 289,
+    "h": 289
+   },
+   "sourceSize": {
+    "w": 289,
+    "h": 289
+   }
+  },
+  "portraitPlayer": {
+   "frame": {
+    "x": 295,
+    "y": 856,
+    "w": 289,
+    "h": 289
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 289,
+    "h": 289
+   },
+   "sourceSize": {
+    "w": 289,
+    "h": 289
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/build-atlases.py",
+  "image": "characters.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 926,
+   "h": 1147
+  },
+  "scale": "0.85"
+ }
+}

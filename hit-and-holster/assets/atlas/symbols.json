@@ -1,0 +1,274 @@
+{
+ "frames": {
+  "EW_blackjack": {
+   "frame": {
+    "x": 986,
+    "y": 986,
+    "w": 300,
+    "h": 300
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 300,
+    "h": 300
+   },
+   "sourceSize": {
+    "w": 300,
+    "h": 300
+   }
+  },
+  "H1_blackjack": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  },
+  "H2_blackjack": {
+   "frame": {
+    "x": 330,
+    "y": 2,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  },
+  "H3_blackjack": {
+   "frame": {
+    "x": 658,
+    "y": 2,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  },
+  "H4_blackjack": {
+   "frame": {
+    "x": 2,
+    "y": 330,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  },
+  "H5_blackjack": {
+   "frame": {
+    "x": 330,
+    "y": 330,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  },
+  "L1_blackjack": {
+   "frame": {
+    "x": 658,
+    "y": 330,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  },
+  "L2_blackjack": {
+   "frame": {
+    "x": 2,
+    "y": 658,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  },
+  "L3_blackjack": {
+   "frame": {
+    "x": 330,
+    "y": 658,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  },
+  "L4_blackjack": {
+   "frame": {
+    "x": 658,
+    "y": 658,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  },
+  "L5_blackjack": {
+   "frame": {
+    "x": 2,
+    "y": 986,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  },
+  "S_blackjack": {
+   "frame": {
+    "x": 330,
+    "y": 986,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  },
+  "W_blackjack": {
+   "frame": {
+    "x": 658,
+    "y": 986,
+    "w": 324,
+    "h": 324
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 324,
+    "h": 324
+   },
+   "sourceSize": {
+    "w": 324,
+    "h": 324
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/build-atlases.py",
+  "image": "symbols.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1288,
+   "h": 1312
+  },
+  "scale": "0.75"
+ }
+}

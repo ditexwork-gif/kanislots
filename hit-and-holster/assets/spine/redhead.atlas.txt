@@ -1,0 +1,5 @@
+redhead.png
+size:428,850
+filter:Linear,Linear
+redhead
+bounds:0,0,428,850

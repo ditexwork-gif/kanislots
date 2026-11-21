@@ -1,0 +1,5 @@
+gambler.png
+size:490,850
+filter:Linear,Linear
+gambler
+bounds:0,0,490,850

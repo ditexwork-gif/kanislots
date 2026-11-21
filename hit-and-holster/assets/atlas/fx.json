@@ -1,0 +1,294 @@
+{
+ "frames": {
+  "fireRing": {
+   "frame": {
+    "x": 160,
+    "y": 2,
+    "w": 307,
+    "h": 307
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 307,
+    "h": 307
+   },
+   "sourceSize": {
+    "w": 307,
+    "h": 307
+   }
+  },
+  "medallion": {
+   "frame": {
+    "x": 313,
+    "y": 334,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "vfx_burst": {
+   "frame": {
+    "x": 471,
+    "y": 2,
+    "w": 307,
+    "h": 307
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 307,
+    "h": 307
+   },
+   "sourceSize": {
+    "w": 307,
+    "h": 307
+   }
+  },
+  "vfx_chips": {
+   "frame": {
+    "x": 2,
+    "y": 644,
+    "w": 256,
+    "h": 253
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 253
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 253
+   }
+  },
+  "vfx_coin": {
+   "frame": {
+    "x": 398,
+    "y": 901,
+    "w": 127,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 127,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 127,
+    "h": 128
+   }
+  },
+  "vfx_dust": {
+   "frame": {
+    "x": 573,
+    "y": 334,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  },
+  "vfx_frame": {
+   "frame": {
+    "x": 2,
+    "y": 334,
+    "w": 307,
+    "h": 306
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 307,
+    "h": 306
+   },
+   "sourceSize": {
+    "w": 307,
+    "h": 306
+   }
+  },
+  "vfx_hole-1": {
+   "frame": {
+    "x": 2,
+    "y": 901,
+    "w": 128,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 128
+   }
+  },
+  "vfx_hole-2": {
+   "frame": {
+    "x": 134,
+    "y": 901,
+    "w": 128,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 128
+   }
+  },
+  "vfx_hole-3": {
+   "frame": {
+    "x": 266,
+    "y": 901,
+    "w": 128,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 128
+   }
+  },
+  "vfx_shaft": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 154,
+    "h": 328
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 154,
+    "h": 328
+   },
+   "sourceSize": {
+    "w": 154,
+    "h": 328
+   }
+  },
+  "vfx_sign": {
+   "frame": {
+    "x": 262,
+    "y": 644,
+    "w": 512,
+    "h": 197
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 197
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 197
+   }
+  },
+  "vfx_spark": {
+   "frame": {
+    "x": 778,
+    "y": 644,
+    "w": 154,
+    "h": 154
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 154,
+    "h": 154
+   },
+   "sourceSize": {
+    "w": 154,
+    "h": 154
+   }
+  },
+  "vfx_tracer": {
+   "frame": {
+    "x": 529,
+    "y": 901,
+    "w": 410,
+    "h": 44
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 410,
+    "h": 44
+   },
+   "sourceSize": {
+    "w": 410,
+    "h": 44
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/build-atlases.py",
+  "image": "fx.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 941,
+   "h": 1031
+  },
+  "scale": "0.8"
+ }
+}

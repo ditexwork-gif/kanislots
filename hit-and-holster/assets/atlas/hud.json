@@ -1,0 +1,374 @@
+{
+ "frames": {
+  "hud_base-round": {
+   "frame": {
+    "x": 676,
+    "y": 2,
+    "w": 205,
+    "h": 205
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 205,
+    "h": 205
+   },
+   "sourceSize": {
+    "w": 205,
+    "h": 205
+   }
+  },
+  "hud_icon-autoplay": {
+   "frame": {
+    "x": 714,
+    "y": 561,
+    "w": 102,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 102
+   }
+  },
+  "hud_icon-close": {
+   "frame": {
+    "x": 2,
+    "y": 685,
+    "w": 102,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 102
+   }
+  },
+  "hud_icon-info": {
+   "frame": {
+    "x": 108,
+    "y": 685,
+    "w": 102,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 102
+   }
+  },
+  "hud_icon-menu": {
+   "frame": {
+    "x": 214,
+    "y": 685,
+    "w": 102,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 102
+   }
+  },
+  "hud_icon-minus": {
+   "frame": {
+    "x": 320,
+    "y": 685,
+    "w": 102,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 102
+   }
+  },
+  "hud_icon-plus": {
+   "frame": {
+    "x": 426,
+    "y": 685,
+    "w": 102,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 102
+   }
+  },
+  "hud_icon-settings": {
+   "frame": {
+    "x": 532,
+    "y": 685,
+    "w": 102,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 102
+   }
+  },
+  "hud_icon-sound-off": {
+   "frame": {
+    "x": 638,
+    "y": 685,
+    "w": 102,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 102
+   }
+  },
+  "hud_icon-sound-on": {
+   "frame": {
+    "x": 744,
+    "y": 685,
+    "w": 102,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 102
+   }
+  },
+  "hud_icon-turbo": {
+   "frame": {
+    "x": 2,
+    "y": 791,
+    "w": 102,
+    "h": 102
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 102
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 102
+   }
+  },
+  "hud_knob": {
+   "frame": {
+    "x": 108,
+    "y": 791,
+    "w": 77,
+    "h": 77
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 77,
+    "h": 77
+   },
+   "sourceSize": {
+    "w": 77,
+    "h": 77
+   }
+  },
+  "hud_plate-count": {
+   "frame": {
+    "x": 2,
+    "y": 416,
+    "w": 352,
+    "h": 141
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 352,
+    "h": 141
+   },
+   "sourceSize": {
+    "w": 352,
+    "h": 141
+   }
+  },
+  "hud_plate-count-stop": {
+   "frame": {
+    "x": 358,
+    "y": 416,
+    "w": 352,
+    "h": 141
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 352,
+    "h": 141
+   },
+   "sourceSize": {
+    "w": 352,
+    "h": 141
+   }
+  },
+  "hud_plate-spin": {
+   "frame": {
+    "x": 2,
+    "y": 561,
+    "w": 352,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 352,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 352,
+    "h": 120
+   }
+  },
+  "hud_plate-stop": {
+   "frame": {
+    "x": 358,
+    "y": 561,
+    "w": 352,
+    "h": 120
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 352,
+    "h": 120
+   },
+   "sourceSize": {
+    "w": 352,
+    "h": 120
+   }
+  },
+  "hud_spin-cylinder": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 410,
+    "h": 410
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 410,
+    "h": 410
+   },
+   "sourceSize": {
+    "w": 410,
+    "h": 410
+   }
+  },
+  "hud_spin-fixed": {
+   "frame": {
+    "x": 416,
+    "y": 2,
+    "w": 256,
+    "h": 256
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 256,
+    "h": 256
+   },
+   "sourceSize": {
+    "w": 256,
+    "h": 256
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/build-atlases.py",
+  "image": "hud.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 883,
+   "h": 895
+  },
+  "scale": "0.8"
+ }
+}

@@ -1,0 +1,18 @@
+skeleton.png
+size:618,1540
+filter:Linear,Linear
+pma:true
+ChatGPT Image Nov 12, 2026, 12_04_02 AM
+bounds:2,2,614,1536
+offsets:212,0,1024,1536
+
+fx.png
+size:768,256
+filter:Linear,Linear
+pma:true
+heart
+bounds:0,0,256,256
+sparkle
+bounds:256,0,256,256
+ring
+bounds:512,0,256,256

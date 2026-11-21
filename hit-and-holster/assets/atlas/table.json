@@ -1,0 +1,314 @@
+{
+ "frames": {
+  "table_back": {
+   "frame": {
+    "x": 544,
+    "y": 2,
+    "w": 162,
+    "h": 230
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 230
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 230
+   }
+  },
+  "table_blank": {
+   "frame": {
+    "x": 710,
+    "y": 2,
+    "w": 162,
+    "h": 230
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 230
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 230
+   }
+  },
+  "table_board": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 538,
+    "h": 538
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 538,
+    "h": 538
+   },
+   "sourceSize": {
+    "w": 538,
+    "h": 538
+   }
+  },
+  "table_chipsGreen": {
+   "frame": {
+    "x": 2,
+    "y": 776,
+    "w": 137,
+    "h": 164
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 137,
+    "h": 164
+   },
+   "sourceSize": {
+    "w": 137,
+    "h": 164
+   }
+  },
+  "table_chipsRed": {
+   "frame": {
+    "x": 727,
+    "y": 544,
+    "w": 140,
+    "h": 164
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 140,
+    "h": 164
+   },
+   "sourceSize": {
+    "w": 140,
+    "h": 164
+   }
+  },
+  "table_courtJ": {
+   "frame": {
+    "x": 367,
+    "y": 776,
+    "w": 108,
+    "h": 139
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 108,
+    "h": 139
+   },
+   "sourceSize": {
+    "w": 108,
+    "h": 139
+   }
+  },
+  "table_courtK": {
+   "frame": {
+    "x": 251,
+    "y": 776,
+    "w": 112,
+    "h": 140
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 140
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 140
+   }
+  },
+  "table_courtQ": {
+   "frame": {
+    "x": 143,
+    "y": 776,
+    "w": 104,
+    "h": 147
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 104,
+    "h": 147
+   },
+   "sourceSize": {
+    "w": 104,
+    "h": 147
+   }
+  },
+  "table_pipC": {
+   "frame": {
+    "x": 479,
+    "y": 776,
+    "w": 67,
+    "h": 67
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 67,
+    "h": 67
+   },
+   "sourceSize": {
+    "w": 67,
+    "h": 67
+   }
+  },
+  "table_pipD": {
+   "frame": {
+    "x": 550,
+    "y": 776,
+    "w": 67,
+    "h": 67
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 67,
+    "h": 67
+   },
+   "sourceSize": {
+    "w": 67,
+    "h": 67
+   }
+  },
+  "table_pipH": {
+   "frame": {
+    "x": 621,
+    "y": 776,
+    "w": 67,
+    "h": 67
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 67,
+    "h": 67
+   },
+   "sourceSize": {
+    "w": 67,
+    "h": 67
+   }
+  },
+  "table_pipS": {
+   "frame": {
+    "x": 692,
+    "y": 776,
+    "w": 67,
+    "h": 67
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 67,
+    "h": 67
+   },
+   "sourceSize": {
+    "w": 67,
+    "h": 67
+   }
+  },
+  "table_plaque": {
+   "frame": {
+    "x": 2,
+    "y": 544,
+    "w": 538,
+    "h": 228
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 538,
+    "h": 228
+   },
+   "sourceSize": {
+    "w": 538,
+    "h": 228
+   }
+  },
+  "table_ring": {
+   "frame": {
+    "x": 544,
+    "y": 544,
+    "w": 179,
+    "h": 179
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 179,
+    "h": 179
+   },
+   "sourceSize": {
+    "w": 179,
+    "h": 179
+   }
+  },
+  "table_tag": {
+   "frame": {
+    "x": 763,
+    "y": 776,
+    "w": 179,
+    "h": 52
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 179,
+    "h": 52
+   },
+   "sourceSize": {
+    "w": 179,
+    "h": 52
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/build-atlases.py",
+  "image": "table.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 944,
+   "h": 942
+  },
+  "scale": "0.7"
+ }
+}

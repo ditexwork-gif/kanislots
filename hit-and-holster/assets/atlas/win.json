@@ -1,0 +1,234 @@
+{
+ "frames": {
+  "SS_blackjack": {
+   "frame": {
+    "x": 991,
+    "y": 1034,
+    "w": 432,
+    "h": 432
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 432,
+    "h": 432
+   },
+   "sourceSize": {
+    "w": 432,
+    "h": 432
+   }
+  },
+  "win_big": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 512,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "win_epic": {
+   "frame": {
+    "x": 518,
+    "y": 2,
+    "w": 512,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "win_fs-night": {
+   "frame": {
+    "x": 1034,
+    "y": 518,
+    "w": 498,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 498,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 498,
+    "h": 512
+   }
+  },
+  "win_fs-parchment": {
+   "frame": {
+    "x": 2,
+    "y": 1550,
+    "w": 768,
+    "h": 312
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 768,
+    "h": 312
+   },
+   "sourceSize": {
+    "w": 768,
+    "h": 312
+   }
+  },
+  "win_fs-seal": {
+   "frame": {
+    "x": 1427,
+    "y": 1034,
+    "w": 318,
+    "h": 320
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 318,
+    "h": 320
+   },
+   "sourceSize": {
+    "w": 318,
+    "h": 320
+   }
+  },
+  "win_fs-strongbox": {
+   "frame": {
+    "x": 2,
+    "y": 1034,
+    "w": 469,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 469,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 469,
+    "h": 512
+   }
+  },
+  "win_fs-super": {
+   "frame": {
+    "x": 475,
+    "y": 1034,
+    "w": 512,
+    "h": 499
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 499
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 499
+   }
+  },
+  "win_max": {
+   "frame": {
+    "x": 1034,
+    "y": 2,
+    "w": 512,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "win_mega": {
+   "frame": {
+    "x": 2,
+    "y": 518,
+    "w": 512,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  },
+  "win_sensational": {
+   "frame": {
+    "x": 518,
+    "y": 518,
+    "w": 512,
+    "h": 512
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 512,
+    "h": 512
+   },
+   "sourceSize": {
+    "w": 512,
+    "h": 512
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/build-atlases.py",
+  "image": "win.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1747,
+   "h": 1864
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,72 @@
+/* Local fonts only (Stake forbids external requests). One type system since 2026-10-25 (docs/KANI-UI.md, docs/REVIEW-READINESS.md
+   2.1): Rye for titles, Bebas Neue for labels, Oswald (variable 200-700) for help text; since 2026-11-06 our own Kani Figures
+   for the numbers (at the end of this file) and drawn letters for the logo. Latin subsets from Google Fonts, SIL OFL 1.1 -
+   licences alongside. Barlow Condensed and Manrope (the reference package's faces) are no
+   longer shipped; their sources stay in assets-src/fonts. */
+@font-face {
+  font-family: 'Rye';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(./rye-latin.woff2) format('woff2');
+}
+/* Bebas Neue's line metrics pinned to the file's own hhea / typo values (900 / 300 of 1000, no line gap), which macOS and
+   iOS use anyway: without them Chrome, Edge and Firefox on Windows take its OS/2 win metrics (950 / 350, USE_TYPO_METRICS
+   is off), every line is 1.3 em instead of 1.2 em tall, and dialogs laid out to fit (Autoplay, Settings at 1200x675)
+   overflow there. Rye's and Oswald's metrics already agree across platforms. 89.999 %, not 90 %: where 0.9 x the size is a
+   half pixel (5, 15, 25, 35 px) the override rounded the ascent up and macOS rounds its own down - a label 1 px lower. */
+@font-face {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(./bebas-neue-latin.woff2) format('woff2');
+  ascent-override: 89.999%;
+  descent-override: 30%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: block;
+  src: url(./oswald-latin.woff2) format('woff2');
+}
+/* The multiplication sign of the HTML dialogs (2026-11-06; reviewers read "15,000×" as a typo): Bebas Neue's × is 0.33 em
+   and Oswald's 0.29 em, both raised well above the middle of a figure. Rye's, scaled here, is a proper × at text height. No
+   new bytes (the Rye file) and only this one character; the near-zero ascent / descent keep it from growing a line box. The
+   dialogs put this family first in their font stacks (--kd-font-label, --kd-font-text in KaniModals.svelte). */
+@font-face {
+  font-family: 'Kani Times';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(./rye-latin.woff2) format('woff2');
+  unicode-range: U+00D7;
+  size-adjust: 120%;
+  ascent-override: 40%;
+  descent-override: 5%;
+  line-gap-override: 0%;
+}
+/* The SDK UI packages hardcode fontFamily 'proxima-nova' (Adobe Typekit upstream): the clock and game name, the bet-level
+   menu, error dialogs. Alias it to Oswald, so they speak the game's type system too. */
+@font-face {
+  font-family: 'proxima-nova';
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: block;
+  src: url(./oswald-latin.woff2) format('woff2');
+}
+/* KANI FIGURES BEGIN - written by tools/build-kani-type.py, do not edit. Our own numerals for money and multipliers,
+   drawn as vectors (assets-src/type/README.md). Inlined so they cost no request. Only figures and money signs: letters,
+   other currency signs and the space fall back to Bebas Neue, and because the space is not in the range the line
+   metrics stay Bebas Neue's too. */
+@font-face {
+  font-family: 'Kani Figures';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(data:font/woff2;base64,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) format('woff2');
+  unicode-range: U+0024-0025, U+002B-002C, U+002E, U+0030-0039, U+00A3, U+00A5, U+00D7, U+20AC, U+2212;
+}
+/* KANI FIGURES END */

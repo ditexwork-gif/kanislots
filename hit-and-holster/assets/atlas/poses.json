@@ -1,0 +1,54 @@
+{
+ "frames": {
+  "poseHouseCheer": {
+   "frame": {
+    "x": 495,
+    "y": 2,
+    "w": 469,
+    "h": 1000
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 469,
+    "h": 1000
+   },
+   "sourceSize": {
+    "w": 469,
+    "h": 1000
+   }
+  },
+  "posePlayerCheer": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 489,
+    "h": 1000
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 489,
+    "h": 1000
+   },
+   "sourceSize": {
+    "w": 489,
+    "h": 1000
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/build-atlases.py",
+  "image": "poses.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 966,
+   "h": 1004
+  },
+  "scale": "1"
+ }
+}

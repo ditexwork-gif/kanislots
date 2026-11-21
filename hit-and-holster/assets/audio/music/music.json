@@ -1,0 +1,17 @@
+{
+	"music_base": {
+		"seconds": 71.9
+	},
+	"music_feature": {
+		"seconds": 57.4
+	},
+	"music_super": {
+		"seconds": 57.5
+	},
+	"music_duel": {
+		"seconds": 27.9
+	},
+	"music_celebration": {
+		"seconds": 18.5
+	}
+}

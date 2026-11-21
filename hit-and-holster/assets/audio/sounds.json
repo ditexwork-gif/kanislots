@@ -1,0 +1,376 @@
+{
+	"sprite": {
+		"sfx_spin": [
+			0,
+			480
+		],
+		"sfx_reel_stop": [
+			730,
+			480
+		],
+		"sfx_scatter_1": [
+			1460,
+			1200
+		],
+		"sfx_scatter_2": [
+			2910,
+			1093
+		],
+		"sfx_scatter_3": [
+			4253,
+			1082
+		],
+		"sfx_x_land": [
+			5585,
+			1360
+		],
+		"sfx_wild_reel": [
+			7195,
+			2480
+		],
+		"sfx_x_strike": [
+			9925,
+			2400
+		],
+		"sfx_quickdraw": [
+			12575,
+			1600
+		],
+		"sfx_card_throw": [
+			14425,
+			1600
+		],
+		"sfx_super_scatter": [
+			16275,
+			3000
+		],
+		"sfx_gunshots": [
+			19525,
+			1209
+		],
+		"sfx_anticipation": [
+			20984,
+			3480
+		],
+		"sfx_settle": [
+			24714,
+			480
+		],
+		"sfx_line": [
+			25444,
+			600
+		],
+		"sfx_win_small": [
+			26294,
+			1480
+		],
+		"sfx_tier_3": [
+			28024,
+			4480
+		],
+		"sfx_tier_4": [
+			32754,
+			4480
+		],
+		"sfx_tier_5": [
+			37484,
+			4480
+		],
+		"sfx_tier_6": [
+			42214,
+			5000
+		],
+		"sfx_tier_7": [
+			47464,
+			5000
+		],
+		"sfx_roll": [
+			52714,
+			1500,
+			true
+		],
+		"sfx_landed": [
+			54464,
+			2000
+		],
+		"sfx_coins": [
+			56714,
+			2280
+		],
+		"sfx_card": [
+			59244,
+			480
+		],
+		"sfx_flip": [
+			59974,
+			480
+		],
+		"sfx_chips": [
+			60704,
+			480
+		],
+		"sfx_table": [
+			61434,
+			600
+		],
+		"sfx_duel": [
+			62284,
+			3000
+		],
+		"sfx_riser": [
+			65534,
+			2760
+		],
+		"sfx_strike": [
+			68544,
+			2480
+		],
+		"sfx_stamp": [
+			71274,
+			1200
+		],
+		"sfx_expand": [
+			72724,
+			1600
+		],
+		"sfx_lock": [
+			74574,
+			1200
+		],
+		"sfx_bonus": [
+			76024,
+			2000
+		],
+		"sfx_feature_end": [
+			78274,
+			3000
+		],
+		"sfx_boost": [
+			81524,
+			1760
+		],
+		"sfx_click": [
+			83534,
+			480
+		],
+		"sfx_title": [
+			84264,
+			6531
+		],
+		"sfx_bonus_hit": [
+			91045,
+			3000
+		],
+		"sfx_bonus_rise": [
+			94295,
+			2480
+		],
+		"sfx_sundown": [
+			97025,
+			5000
+		],
+		"sfx_fs_intro": [
+			102275,
+			4000
+		],
+		"sfx_super_intro": [
+			106525,
+			4000
+		],
+		"sfx_fs_start": [
+			110775,
+			600
+		],
+		"sfx_strongbox": [
+			111625,
+			2480
+		],
+		"sfx_x_fizzle": [
+			114355,
+			1200
+		],
+		"sfx_push": [
+			115805,
+			1200
+		],
+		"vo_challenger_win": [
+			117255,
+			1480
+		],
+		"vo_house_win": [
+			118985,
+			1480
+		],
+		"amb_day": [
+			120715,
+			28500,
+			true
+		],
+		"amb_night": [
+			149465,
+			28500,
+			true
+		]
+	},
+	"src": [
+		"./assets/audio/sounds.mp3"
+	],
+	"config": {
+		"sfx_spin": {
+			"volume": 1
+		},
+		"sfx_reel_stop": {
+			"volume": 1
+		},
+		"sfx_scatter_1": {
+			"volume": 1
+		},
+		"sfx_scatter_2": {
+			"volume": 1
+		},
+		"sfx_scatter_3": {
+			"volume": 1
+		},
+		"sfx_x_land": {
+			"volume": 1
+		},
+		"sfx_wild_reel": {
+			"volume": 1
+		},
+		"sfx_x_strike": {
+			"volume": 1
+		},
+		"sfx_quickdraw": {
+			"volume": 1
+		},
+		"sfx_card_throw": {
+			"volume": 1
+		},
+		"sfx_super_scatter": {
+			"volume": 1
+		},
+		"sfx_gunshots": {
+			"volume": 1
+		},
+		"sfx_anticipation": {
+			"volume": 1
+		},
+		"sfx_settle": {
+			"volume": 1
+		},
+		"sfx_line": {
+			"volume": 1
+		},
+		"sfx_win_small": {
+			"volume": 1
+		},
+		"sfx_tier_3": {
+			"volume": 1
+		},
+		"sfx_tier_4": {
+			"volume": 1
+		},
+		"sfx_tier_5": {
+			"volume": 1
+		},
+		"sfx_tier_6": {
+			"volume": 1
+		},
+		"sfx_tier_7": {
+			"volume": 1
+		},
+		"sfx_roll": {
+			"volume": 1
+		},
+		"sfx_landed": {
+			"volume": 1
+		},
+		"sfx_coins": {
+			"volume": 1
+		},
+		"sfx_card": {
+			"volume": 1
+		},
+		"sfx_flip": {
+			"volume": 1
+		},
+		"sfx_chips": {
+			"volume": 1
+		},
+		"sfx_table": {
+			"volume": 1
+		},
+		"sfx_duel": {
+			"volume": 1
+		},
+		"sfx_riser": {
+			"volume": 1
+		},
+		"sfx_strike": {
+			"volume": 1
+		},
+		"sfx_stamp": {
+			"volume": 1
+		},
+		"sfx_expand": {
+			"volume": 1
+		},
+		"sfx_lock": {
+			"volume": 1
+		},
+		"sfx_bonus": {
+			"volume": 1
+		},
+		"sfx_feature_end": {
+			"volume": 1
+		},
+		"sfx_boost": {
+			"volume": 1
+		},
+		"sfx_click": {
+			"volume": 1
+		},
+		"sfx_title": {
+			"volume": 1
+		},
+		"sfx_bonus_hit": {
+			"volume": 1
+		},
+		"sfx_bonus_rise": {
+			"volume": 1
+		},
+		"sfx_sundown": {
+			"volume": 1
+		},
+		"sfx_fs_intro": {
+			"volume": 1
+		},
+		"sfx_super_intro": {
+			"volume": 1
+		},
+		"sfx_fs_start": {
+			"volume": 1
+		},
+		"sfx_strongbox": {
+			"volume": 1
+		},
+		"sfx_x_fizzle": {
+			"volume": 1
+		},
+		"sfx_push": {
+			"volume": 1
+		},
+		"vo_challenger_win": {
+			"volume": 1
+		},
+		"vo_house_win": {
+			"volume": 1
+		},
+		"amb_day": {
+			"volume": 1
+		},
+		"amb_night": {
+			"volume": 1
+		}
+	}
+}

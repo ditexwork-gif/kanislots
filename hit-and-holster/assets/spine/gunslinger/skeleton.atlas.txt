@@ -1,0 +1,18 @@
+skeleton.png
+size:712,1539
+filter:Linear,Linear
+pma:true
+Western gambler with engraved revolver
+bounds:2,2,708,1535
+offsets:141,1,1024,1536
+
+fx.png
+size:768,256
+filter:Linear,Linear
+pma:true
+flash
+bounds:0,0,256,256
+smoke
+bounds:256,0,256,256
+glint
+bounds:512,0,256,256

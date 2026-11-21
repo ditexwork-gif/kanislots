@@ -1,0 +1,294 @@
+{
+ "frames": {
+  "EW_blackjack_blur": {
+   "frame": {
+    "x": 662,
+    "y": 594,
+    "w": 200,
+    "h": 272
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 200,
+    "h": 272
+   },
+   "sourceSize": {
+    "w": 200,
+    "h": 272
+   }
+  },
+  "H1_blackjack_blur": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "H2_blackjack_blur": {
+   "frame": {
+    "x": 222,
+    "y": 2,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "H3_blackjack_blur": {
+   "frame": {
+    "x": 442,
+    "y": 2,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "H4_blackjack_blur": {
+   "frame": {
+    "x": 662,
+    "y": 2,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "H5_blackjack_blur": {
+   "frame": {
+    "x": 882,
+    "y": 2,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "L1_blackjack_blur": {
+   "frame": {
+    "x": 2,
+    "y": 298,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "L2_blackjack_blur": {
+   "frame": {
+    "x": 222,
+    "y": 298,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "L3_blackjack_blur": {
+   "frame": {
+    "x": 442,
+    "y": 298,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "L4_blackjack_blur": {
+   "frame": {
+    "x": 662,
+    "y": 298,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "L5_blackjack_blur": {
+   "frame": {
+    "x": 882,
+    "y": 298,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "SS_blackjack_blur": {
+   "frame": {
+    "x": 2,
+    "y": 594,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "S_blackjack_blur": {
+   "frame": {
+    "x": 222,
+    "y": 594,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  },
+  "W_blackjack_blur": {
+   "frame": {
+    "x": 442,
+    "y": 594,
+    "w": 216,
+    "h": 292
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 216,
+    "h": 292
+   },
+   "sourceSize": {
+    "w": 216,
+    "h": 292
+   }
+  }
+ },
+ "meta": {
+  "app": "tools/build-atlases.py",
+  "image": "symbols-blur.webp",
+  "format": "RGBA8888",
+  "size": {
+   "w": 1100,
+   "h": 888
+  },
+  "scale": "1"
+ }
+}
