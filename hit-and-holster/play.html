@@ -1724,7 +1724,7 @@ body.hhEditing #hhC button *{pointer-events:none}
   function pxFind(){const app=globalThis.__PIXI_APP__,A=(window.__hhApp||{}).loadedAssets,L0=window.__hhLay;if(!app||!app.stage||!L0||L0.showLoadingScreen||window.__hhIntro)return null;const R={};let cab=null;
     const walk=(o,d)=>{if(!o||d>9)return;if(o.label==='logo')R.logo=[o];if(!cab&&o.texture&&o.texture.label==='cabinet')cab=o;
       if(A&&o.texture&&o.anchor&&!o.geometry){if(o.texture===A.characterPlayer)R._p=o;else if(o.texture===A.characterHouse)R._h=o;else if((o.texture===A.S_blackjack||o.texture===A.EW_blackjack)&&o.parent&&o.parent.children.some(c=>c.texture===A.table_plaque))R[o.texture===A.S_blackjack?'pbuy':'pextra']=[o.parent]}(o.children||[]).forEach(c=>walk(c,d+1))};walk(app.stage,0);
-    if(cab){const bc=cab.parent,B=[];app.stage.children.forEach(L=>(L.children||[]).forEach(M=>(M.children||[]).forEach(c=>{if(Math.abs(c.x-bc.x)<.5&&Math.abs(c.y-bc.y)<.5&&Math.abs(c.scale.x-bc.scale.x)<1e-3)B.push(c)})));if(B.length)R.board=B}
+    if(cab){const bc=cab.parent,B=[];app.stage.children.forEach(L=>(L.children||[]).forEach(M=>(M.children||[]).forEach(c=>{if(Math.abs(c.x-bc.x)<.5&&Math.abs(c.y-bc.y)<.5&&Math.abs((c.__hhB||c.scale).x-(bc.__hhB||bc.scale).x)<1e-3)B.push(c)})));if(B.length)R.board=B}
     const grp=sp=>{if(!sp||!sp.parent||!sp.parent.parent)return null;const W=sp.parent,P=W.parent,i=P.children.indexOf(W);return[i-2,i-1,i,i+1].map(k=>P.children[k]).filter(Boolean)};
     if(R._p)R.player=grp(R._p);if(R._h)R.house=grp(R._h);delete R._p;delete R._h;return R}
   let PXC=null;window.__hhPxFind=()=>PXC;
