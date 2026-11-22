@@ -2,7 +2,7 @@ skeleton.png
 size:618,1540
 filter:Linear,Linear
 pma:true
-ChatGPT Image Nov 12, 2026, 12_04_02 AM
+dealer
 bounds:2,2,614,1536
 offsets:212,0,1024,1536
 
